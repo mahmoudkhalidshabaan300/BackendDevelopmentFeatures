@@ -15,11 +15,15 @@ programming , And PDLC Is A Process Of Problem Solving , Not Meaning Written Cod
 00.2.1.2)Define The Problem Requirements:
 -----------------------------------------------------
 00.2.1.2.1)Does The Problem Of Your Own Java Computer Programming Codes Require User Interaction?
+
 ---------------------------------------------------------------
 00.2.1.2.1.1)If Yes , What Is The Expected Inputs?
+
 ---------------------------------------------------------------
 00.2.1.2.1.2)What Is The Output Of Your Own Java Computer Programming Codes?
-![Processing Of Your Own Java Computer Programming Codes...](IntroductionToJAVAImages/Screenshot 2026-10-28 011905.png)
+
+------------------------------------------------------------------------------
+![Processing Of Your Own Java Computer Programming Codes...](IntroductionToJAVAImages/Screenshot%2026-10-28%011905.png)
 
 
 ------------------------------------------------------------------------------------------
@@ -32,7 +36,6 @@ programming , And PDLC Is A Process Of Problem Solving , Not Meaning Written Cod
 
 ------------------------------------------------------------------------------------------
 *00.3)Maintenance Your Own Java Computer Programming Codes:
-
 ------------------------------------------------------------
 00.3.1)Use , And Modify Your Own Java Computer Programming Codes If The Problem Domain Changes...
 
@@ -42,8 +45,9 @@ programming , And PDLC Is A Process Of Problem Solving , Not Meaning Written Cod
 ---------------------------
 1)If The Problem Is Complex Then You Should Divide It More Than One Subproblems , And Finally Analyze Each Subproblems As above...
 2)To Sum Up At The Frist Think To Solve The Problem Of Your Own Java Computer Programming Codes , And Then Written Codes To Solve The Problem Of Your Own Java Computer Programming Codes...
-![Important Note] (IntroductionToJAVAImages/Screenshot 2026-10-28 012350.png)
 
+--------------------------------------------------------------------------------------
+![Area Of Rectangle Example](IntroductionToJAVAImages/Screenshot%202026-10-28%20012327.png)
 
 ----------------------------------------------------------------------------------------------
-![Area Of Rectangle Example] (IntroductionToJAVAImages/Screenshot 2026-10-28 012327.png)
+![Area Of Rectangle Example](IntroductionToJAVAImages/Screenshot%2026-10-28%012327.png)
