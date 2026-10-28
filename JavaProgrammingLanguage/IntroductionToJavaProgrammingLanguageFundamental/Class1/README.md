@@ -43,6 +43,8 @@ programming , And PDLC Is A Process Of Problem Solving , Not Meaning Written Cod
 **Very Important Notes:
 ---------------------------
 1)If The Problem Is Complex Then You Should Divide It More Than One Subproblems , And Finally Analyze Each Subproblems As above...
+
+----------------------------------------------------------------------------------------------
 2)To Sum Up At The Frist Think To Solve The Problem Of Your Own Java Computer Programming Codes , And Then Written Codes To Solve The Problem Of Your Own Java Computer Programming Codes...
 
 --------------------------------------------------------------------------------------
