@@ -49,4 +49,4 @@ programming , And PDLC Is A Process Of Problem Solving , Not Meaning Written Cod
 ![Area Of Rectangle Example](IntroductionToJAVAImages/Screenshot%202026-10-28%20012327.png)
 
 ----------------------------------------------------------------------------------------------
-![To Sum Up](IntroductionToJAVAImages/Screenshot%2026-10-28%012350.png)
+![To Sum Up](IntroductionToJAVAImages/Screenshot%2026-10-28%20012350.png)
