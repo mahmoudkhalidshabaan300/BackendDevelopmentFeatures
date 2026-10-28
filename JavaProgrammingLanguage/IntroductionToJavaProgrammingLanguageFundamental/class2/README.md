@@ -25,3 +25,7 @@ JRE Refers To Java Runtime Environment , It Is Mainly Used To Run , Or Execute Y
 
 ------------------------------------------------------------------------------------------------
 ![How To Install The Java Programming Language](https://github.com/mahmoudkhalidshabaan300/BackendDevelopmentFeatures/blob/main/JavaProgrammingLanguage/IntroductionToJavaProgrammingLanguageFundamental/class2/HowToInstallJAVAProgrammingImages/Screenshot%202026-10-28%20024750.png)
+
+-----------------------------------------------------------------------
+
+![JAVA Programming Language Features](https://raw.githubusercontent.com/mahmoudkhalidshabaan300/BackendDevelopmentFeatures/main/JavaProgrammingLanguage/IntroductionToJavaProgrammingLanguageFundamental/class2/HowToInstallJAVAProgrammingImages/Screenshot%202026-10-28%20035409.png)
